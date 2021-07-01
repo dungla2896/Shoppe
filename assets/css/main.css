@@ -263,6 +263,7 @@ vào đc mã QR nên ta làm cái này để bắc cầu */
     font-weight: 400;
     font-size: 1.4rem;
     line-height: 40px;/* Khoảng cách dòng trên dưới */
+    user-select: none;/* không cho người dùng copy */
 }
 .header__notify-list{
     padding-left: 0;
