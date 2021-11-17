@@ -1171,7 +1171,7 @@ i.home-product-item__like-icon-fill{
     font-size: 1.2rem;
     line-height: 1.2rem;
     position: relative;
-    top: -1px;
+    top: 2px;
 }
 
 .home-product-item__sale-off-label{
@@ -1179,7 +1179,7 @@ i.home-product-item__like-icon-fill{
     line-height: 1.3rem;
     color: var(--white-color);
     position: relative;
-    top: -10px;
+    top: 4px;
     font-weight: 600;
 }
 .home-product__paination{
